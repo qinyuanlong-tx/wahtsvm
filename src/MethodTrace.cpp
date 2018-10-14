@@ -4,7 +4,7 @@
 
 #include <iostream>
 #include <stack>
-
+#include <cstring>
 #include "MethodTrace.h"
 
 using namespace std;
